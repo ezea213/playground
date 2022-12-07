@@ -1,0 +1,3 @@
+[submodule "playground-module1"]
+	path = playground-module1
+	url = https://github.com/ezea213/playground-module1.git
